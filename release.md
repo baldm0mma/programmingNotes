@@ -1,3 +1,5 @@
+https://docs.google.com/document/d/1mG8HZn8RKYUYoNpKRN1s1-CZ6lmP3EG-ZiiibM_eDGM/edit
+
 ## Types of Releases
 
 ### Major Release
