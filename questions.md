@@ -17,3 +17,5 @@ Vim on one side, and Visual Studio on another.
   - Cloud Storage
   - Cloud Build
   - Container Registry
+  - Cloud Functions
+  - Kubernetes Engine
