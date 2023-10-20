@@ -11,3 +11,9 @@ Integrated development environment. Basically a text editor with a bunch of extr
 #### Spectrum
 
 Vim on one side, and Visual Studio on another.
+
+### GCP Specifics
+
+  - Cloud Storage
+  - Cloud Build
+  - Container Registry
