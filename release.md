@@ -54,3 +54,5 @@ Security releases are unplanned in nature.  These occur when we have critical or
   - Look at release day checklist
   - Fairly dull and empty
   - Keep track of the release state
+  - Build the release guide
+  - Follow directions
