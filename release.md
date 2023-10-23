@@ -1,5 +1,3 @@
-https://docs.google.com/document/d/1mG8HZn8RKYUYoNpKRN1s1-CZ6lmP3EG-ZiiibM_eDGM/edit
-
 ## Types of Releases
 
 ### Major Release
@@ -48,3 +46,11 @@ These can occur in the case of a critical security fix (e.g. a 0-day) or if ther
 
 Security releases are unplanned in nature.  These occur when we have critical or maximum severity security issues (e.g. 0-day) that put Grafana Labs or our customers at severe risk.  In this case we stop the line and produce a release with the security fix as quickly as possible.  This release is then published publicly for all GL customers to be able to consume asap.  There is no embargo period.
 
+## NOTES
+
+2023/10/23 - Grafana Release Build Ride along
+
+  - Look at release day plan
+  - Look at release day checklist
+  - Fairly dull and empty
+  - Keep track of the release state
