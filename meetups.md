@@ -29,12 +29,24 @@
       - Zoltan: his ability to think outside the box and come up with creative solutions.
     - Firstly, how was this bug introduced, and when?
       - Oh no... - jev_forsberg_github_image
+    - Secondly, how do we fix it?
+      - Together, we collaborate throughout the next few hours, despite being spread across different time zones, each of us bringing our unique expertise - except for me! - to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
   
 
 - Point 2: Challenges and Solutions
-  - Address the challenges that come with cultural differences, including varying work styles, communication norms, and time zones.
-  - Share strategies that Grafana Labs has implemented to overcome these challenges, such as using asynchronous communication tools and setting clear expectations for collaboration.
-  - Highlight the importance of open and inclusive communication to bridge cultural gaps and build a strong team culture.
+  - Concepts
+    - Address the challenges that come with cultural differences, including varying work styles, communication norms, and time zones.
+    - Share strategies that Grafana Labs has implemented to overcome these challenges, such as using asynchronous communication tools and setting clear expectations for collaboration.
+    - Highlight the importance of open and inclusive communication to bridge cultural gaps and build a strong team culture.
+  - Content
+    - Challenges
+      - Working in a global, diverse, and asynchronous team does come with its set of challenges:
+        - Varying Working Hours: The first challenge is managing different time zones. While it's a fantastic aspect of Grafana Labs that the sun never sets on its team, coordinating meetings and ensuring effective communication across time zones can be a logistical puzzle.
+          - Share a personal anecdote: Recall a time when a critical team meeting had to be scheduled to accommodate team members from three different continents, leading to late-night or early-morning calls. This personal experience can make the challenge relatable to the audience.
+        - Communication Styles: Cultural differences often lead to distinct communication styles and norms. What might be seen as assertive in one culture might be considered impolite in another. These differences can lead to misunderstandings and miscommunications.
+          - Share a story: Narrate an incident where a message from a colleague from a different cultural background was initially perceived as confrontational but was later clarified as a normal communication style in their culture. This highlights the need for cultural sensitivity in remote work.
+        - Cultural Differences: Working with colleagues from diverse cultural backgrounds can sometimes lead to misunderstandings or clashes related to work practices, holidays, and expectations. These differences can affect team dynamics and workflow.
+          - Personal experience: Share a personal story about a situation where cultural differences posed a challenge, such as different approaches to celebrating holidays or different work ethic expectations. Describe how the issue was resolved through open dialogue and understanding.
 
 - Point 3: Building Cross-Cultural Understanding
   - Discuss the benefits of investing in cross-cultural training and awareness programs.
