@@ -18,11 +18,11 @@
     - Explain the value of this diversity in fostering innovation and creativity by bringing a wide range of perspectives to the table.
     - Share stories or examples of how the company has successfully harnessed this diversity to solve problems and develop unique solutions.
   - Intro
-    - Imagine a friged, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches, drooping usually-strong branches dangerously low to the frozen ground. The sun isn't quite up, but is already reluctantly peeking above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
+    - Imagine a friged, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
       - Oh no... foreshadow_image
     - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's Slack: "It seems like the latest Grafana update introduced a bug that's breaking our Table visualization, and it's affecting a handful of our largest clients. They can access their dashboards, but they all error out. We need to fix this ASAP."
     - Who is this?!?!?
-      - Oh no... - torket_odergaard_image
+      - Oh no... - torkel_odegaard_image
     - Our team springs into action. On the call, there's Victor from Romania, Oscar from Sweden, and Zoltan from Hungary, each contributing their unique perspectives:
       - Victor: his reputation for thorough analysis and meticulous problem-solving.
       - Oscar: his calm demeanor and exceptional understand of the codebase.
@@ -30,7 +30,7 @@
     - Firstly, how was this bug introduced, and when?
       - Oh no... - jev_forsberg_github_image
     - Secondly, how do we fix it?
-      - Together, we collaborate throughout the next few hours, despite being spread across different time zones, each of us bringing our unique expertise - except for me! - to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
+      - Together, we collaborate throughout the next few hours, despite being spread across different time zones and geographies, each of us bringing our unique expertise to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
   
 
 - Point 2: Challenges and Solutions
@@ -42,7 +42,7 @@
     - Challenges
       - Working in a global, diverse, and asynchronous team does come with its set of challenges:
         - Varying Working Hours: The first challenge is managing different time zones. While it's a fantastic aspect of Grafana Labs that the sun never sets on its team, coordinating meetings and ensuring effective communication across time zones can be a logistical puzzle.
-          - Share a personal anecdote: Recall a time when a critical team meeting had to be scheduled to accommodate team members from three different continents, leading to late-night or early-morning calls. This personal experience can make the challenge relatable to the audience.
+          - My team is split between the US, and Western/Central Europe. This means that by midnight Mountain time, half my team clocks in, and only 6-9 hours later does the other half of the team even get online. This means that if I need to get ahold of someone, I need to be very intentional about when I do it. And a quick at our teammates calendars shows an overlap of only about 90-120 minutes a day that is shared between all of us.
         - Communication Styles: Cultural differences often lead to distinct communication styles and norms. What might be seen as assertive in one culture might be considered impolite in another. These differences can lead to misunderstandings and miscommunications.
           - Share a story: Narrate an incident where a message from a colleague from a different cultural background was initially perceived as confrontational but was later clarified as a normal communication style in their culture. This highlights the need for cultural sensitivity in remote work.
         - Cultural Differences: Working with colleagues from diverse cultural backgrounds can sometimes lead to misunderstandings or clashes related to work practices, holidays, and expectations. These differences can affect team dynamics and workflow.
