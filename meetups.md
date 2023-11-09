@@ -18,7 +18,7 @@
     - Explain the value of this diversity in fostering innovation and creativity by bringing a wide range of perspectives to the table.
     - Share stories or examples of how the company has successfully harnessed this diversity to solve problems and develop unique solutions.
   - Intro
-    - Imagine a friged, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
+    - Imagine a frigid, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
       - Oh no... foreshadow_image
     - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's Slack: "It seems like the latest Grafana update introduced a bug that's breaking our Table visualization, and it's affecting a handful of our largest clients. They can access their dashboards, but they all error out. We need to fix this ASAP."
     - Who is this?!?!?
