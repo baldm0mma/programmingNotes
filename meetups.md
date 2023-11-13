@@ -18,21 +18,25 @@
     - Explain the value of this diversity in fostering innovation and creativity by bringing a wide range of perspectives to the table.
     - Share stories or examples of how the company has successfully harnessed this diversity to solve problems and develop unique solutions.
   - Intro
-    - Grafana Labs is a melting pot of talent, with team members hailing from various corners of the globe, each contributing a unique set of experiences, perspectives, and cultural insights. This diversity isn't just a part of the company's identity; it's a driving force behind its success.
+    - Grafana Labs is a melting pot of talent, with team members hailing from every corner of the globe, each contributing a unique set of experiences, perspectives, and cultural insights. This diversity isn't just a part of the company's identity; I would argue it's a driving force behind its success.
     - Unlike many tech organizations, this diversity isn't merely a checkbox on a corporate checklist but a deliberate strategy that enhances collaboration and creativity. Cross-cultural collaboration is at the heart of Grafana Labs, with each team member bringing a unique cultural perspective to their work.
-    - Imagine a frigid, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
-      - Oh no... foreshadow_image
-    - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's Slack: "It seems like the latest Grafana update introduced a bug that's breaking our Table visualization, and it's affecting a handful of our largest clients. They can access their dashboards, but they all error out. We need to fix this ASAP."
-    - Who is this?!?!?
-      - Oh no... - torkel_odegaard_image
-    - Our team springs into action. On the call, there's Victor from Romania, Oscar from Sweden, and Zoltan from Hungary, each contributing their unique perspectives:
-      - Victor: his reputation for thorough analysis and meticulous problem-solving.
-      - Oscar: his calm demeanor and exceptional understand of the codebase.
-      - Zoltan: his ability to think outside the box and come up with creative solutions.
-    - Firstly, how was this bug introduced, and when?
-      - Oh no... - jev_forsberg_github_image
-    - Secondly, how do we fix it?
-      - Together, we collaborate throughout the next few hours, despite being spread across different time zones and geographies, each of us bringing our unique expertise to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
+    - In a tech-driven landscape, innovation is crucial for staying ahead. Grafana Labs recognizes that to innovate, it's essential to think differently and approach challenges from multiple angles.
+    - A diverse team naturally brings a wide range of problem-solving approaches to the table. The intersection of different viewpoints sparks creativity and encourages out-of-the-box thinking.
+    - The value of diversity goes beyond the projects themselves. It's about building an inclusive culture where every team member feels heard, respected, and valued for their unique contributions.
+    - Story
+      - Imagine a frigid, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
+        - Oh no... foreshadow_image
+      - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's Slack: "It seems like the latest Grafana update introduced a bug that's breaking our Table visualization, and it's affecting a handful of our largest clients. They can access their dashboards, but they all error out. We need to fix this ASAP."
+      - Who is this?!?!?
+        - Oh no... - torkel_odegaard_image
+      - Our team springs into action. On the call, there's Victor from Romania, Oscar from Sweden, and Zoltan from Hungary, each contributing their unique perspectives:
+        - Victor: his reputation for thorough analysis and meticulous problem-solving.
+        - Oscar: his calm demeanor and exceptional understand of the codebase.
+        - Zoltan: his ability to think outside the box and come up with creative solutions.
+      - Firstly, how was this bug introduced, and when?
+        - Oh no... - jev_forsberg_github_image
+      - Secondly, how do we fix it?
+        - Together, we collaborate throughout the next few hours, despite being spread across different time zones and geographies, each of us bringing our unique expertise to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
   
 
 - Point 2: Challenges
