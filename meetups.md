@@ -23,19 +23,20 @@
     - In todays tech-driven landscape, innovation is crucial for staying ahead. Grafana Labs recognizes that to innovate, it's essential to think differently and approach challenges from multiple angles. A diverse team naturally brings a wide range of problem-solving approaches to the table. The intersection of different viewpoints sparks creativity and encourages out-of-the-box thinking.
     - The value of diversity goes beyond the projects themselves. It's about building an inclusive culture where every team member feels heard, respected, valued for their unique contributions, and can bring their whole selves to work. This is the foundation for the strong team culture and a healthy work environment we have at Grafana Labs.
     - Story
-      - Imagine a frigid, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, me, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. For the most part, everything has gone incredibly smoothly.
+      - Imagine a frigid, Colorado morning; vivid white snowfall blankets the ground and hangs heavily off tree branches. The sun isn't quite up yet, but has begun to reluctantly peek above the horizon. Jev Forsberg, this guy, is in his 3rd week at Grafana. He's been handed some smaller, but still important tasks, and has been fitting in well with his team. And for the most part, everything has gone incredibly smoothly.
         - Oh no... foreshadow_image
-      - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's Slack: "It seems like the latest Grafana update introduced a bug that's breaking our Table visualization, and it's affecting a handful of our largest clients. They can access their dashboards, but they all error out. We need to fix this ASAP."
+      - Suddently, a ping on Slack. Someone named Torkel Ödegaard drops a message into our team's channel: "The latest update introduced a bug that's breaking Table, and it's affecting the majority part of our largest clients. They can access their dashboards, but they all error out. We need to fix this immediately."
       - Who is this?!?!?
         - Oh no... - torkel_odegaard_image
       - Our team springs into action. On the call, there's Victor from Romania, Oscar from Sweden, and Zoltan from Hungary, each contributing their unique perspectives:
-        - Victor: his reputation for thorough analysis and meticulous problem-solving.
+        - Victor: his reputation for thoughtful analysis and meticulous problem-solving.
         - Oscar: his calm demeanor and exceptional understand of the codebase.
         - Zoltan: his ability to think outside the box and come up with creative solutions.
       - Firstly, how was this bug introduced, and when?
         - Oh no... - jev_forsberg_github_image
       - Secondly, how do we fix it?
-        - Together, we collaborate throughout the next few hours, despite being spread across different time zones and geographies, each of us bringing our unique expertise to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the client then before.
+        - Together, we collaborate throughout the next few hours, despite being spread across different time zones and geographies, each of us bringing our unique expertise to the table. By EOD UTC, we've not only fixed the bug but have also added a small enhancement to the visualization, making it even more intuitive for the clients then it was before.
+      - Now, could I have fixed this bug myself? Obviously not, I'm the dummy that introduced it. Just kidding, sure, of course, but it would have lacked the very gestalt-quality that makes Grafana great: bringing together a diverse group of people to solve problems in a way that is greater than the sum of its parts.
   
 
 - Point 2: Challenges
@@ -46,7 +47,7 @@
   - Content
     - Challenges
       - Working in a global, diverse, and asynchronous team does come with its set of challenges:
-        - Varying Working Hours: The first challenge is managing different time zones. While it's a fantastic aspect of Grafana Labs that the sun never sets on its team, coordinating meetings and ensuring effective communication across time zones can be a logistical puzzle.
+        - Varying Working Hours: The first challenge is managing different time zones. While it's a fantastic aspect of Grafana Labs that the sun never sets on its teams, coordinating meetings, collaberating on projects, and ensuring effective communication across time zones can be a logistical puzzle.
           - My team is split between the US, and Western/Central Europe. This means that by midnight Mountain time, half my team clocks in, and only 6-9 hours later does the other half of my team even wake up and get online. This means that if I need to get ahold of someone, I need to be very intentional about when I do it. And a quick glance at our teammates calendars shows an overlap of only about 90-120 minutes a day that is shared between all of us.
         - Communication Styles: Cultural differences often lead to distinct communication styles and norms. What might be seen as assertive in one cultural context might be considered impolite in another. These differences can lead to misunderstandings and miscommunications.
           - For example, in the US, we tend to be very direct and to the point. We don't like to beat around the bush, and we don't like to waste time. We also tend to be very informal, and we don't like to use titles or honorifics. This can be a bit of a shock to someone from a culture that is more formal, or that values indirect communication. And it can be a bit of a shock to someone who is used to a more formal work environment.
