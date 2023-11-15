@@ -49,7 +49,7 @@
     - Challenges
       - Working in a global, diverse, and asynchronous team does come with its set of challenges:
         - Varying Working Hours: The first challenge is managing different time zones. While it's a fantastic aspect of Grafana Labs that the sun never sets on its teams, coordinating meetings, collaborating on projects, and ensuring effective communication across time zones can be a logistical quagmire.
-          - My team is split between the US, and Western/Central Europe. A around midnight MST, half my team clocks in, and only 6-9 hours later does the other half of my team even wake up and get online. This means that if I need to get ahold of someone, I need to be very intentional about when I do it. A quick glance at our teammates calendars shows an overlap of only about 90-120 minutes a day that is shared between all of us.
+          - My team is split between the US, and Western/Central Europe. Around midnight MST, half my team clocks in, and only 6-9 hours later does the other half of my team even wake up and get online. This means that if I need to get ahold of someone, I need to be very intentional about when I do it. A quick glance at our teammates calendars shows an overlap of only about 90-120 minutes a day that is shared between all of us.
             - team-cal.png
         - Communication Styles: Cultural differences often lead to distinct communication styles and norms. This is our second challenge. What might be seen as assertive in one cultural context might be considered impolite in another. These differences can easily lead to misunderstandings, miscommunications, and at worst, team conflict.
           - For example, in the US, we tend to be very direct and to the point. We don't like to beat around the bush, and we don't like to waste time. We also tend to be very informal, and we don't like to use titles or honorifics. This can be a bit of a shock to someone from a culture that is more formal, or that values indirect communication. And it can be a bit of a shock to someone who is used to a more formal work environment.
@@ -66,9 +66,9 @@
     - Solutions
       - Despite these challenges, Grafana Labs has implemented a number of strategies to overcome them and build a strong, cohesive team culture:
         - Robust Asynchronous Communication Options and Training:
-          - The first solution to our previous challenges is thougtful and robust  asynchronous communication. We use tools like Slack, GitHub, Google Meet, and email to communicate asynchronously, which allows us to work around different time zones and schedules. This also allows us to be more intentional about when we communicate, and how we communicate. We can be more thoughtful about what we say, and how we say it, and we can be more intentional about how we respond to others.
+          - The first solution to our previous challenges is thoughtful and robust asynchronous communication. We use tools like Slack, GitHub, Google Meet, and email to communicate asynchronously, which allows us to work around different time zones and schedules. This also allows us to be more intentional about when we communicate, and how we communicate. We can be more thoughtful about what we say, and how we say it, and we can be more intentional about how we respond to others.
           - We also record and annotate all important meetings, so that anyone who wasn't able to attend can still get the information they need.
-          - Documentation is also huge. We have a robust document store online - both in Google docs and Slack, as well as our interal documentation tooling, and we try to document absolutely everything.
+          - Documentation is also huge. We have a robust document store online - both in Google docs and Slack, as well as our internal documentation tooling, and we try to document absolutely everything.
           - Favorite Slack quick tip: Slack can sceduale messages to be sent at a later time. This is a great way to ensure that your message is sent at a time that is convenient for your recipient, and it also allows you to be more thoughtful about what you say, and how you say it.
         - Open and Inclusive Communication:
           - Our second solution is open and inclusive communication. We have a culture of open communication, where everyone is encouraged to speak up and share their ideas. We also have a culture of inclusion, where everyone is encouraged to participate in discussions and decision-making processes.
@@ -76,7 +76,7 @@
         - Emphasis on Team Building:
           - We have a number of initiatives in place to build strong team bonds, including online monthly connections where we simply get to know each other, team outings, and team retreats. These initiatives help us build trust and camaraderie, which is essential for effective collaboration.
           - We have bi-yearly hackathons, were anyone can pitch an idea, and anyone can participate. No one is told what to work on, and no one is told what not to work on. This allows us to be creative, and to think outside the box, and also allows us to work with people we might not normally work with.
-          - Despite being a fully remote organization, Grafana understands how import in-person connections are. We have opportunities throught out the year to connect in person, share a meal, and get to know each other more deeply. We connect, we drink, we eat, we play. It's magical.
+          - Despite being a fully remote organization, Grafana understands how import in-person connections are. We have opportunities throughout the year to connect in person, share a meal, and get to know each other more deeply. We connect, we drink, we eat, we play. It's magical.
 
 
 
