@@ -38,3 +38,6 @@ Vim on one side, and Visual Studio on another.
 
 #### Long polling
   - Call the pizza place and ask if the pizza’s ready. Silence until the pizza is ready, at which point they tell me my pizza’s ready.
+
+### TCP vs HTTP?
+  - HTTP is built on TCP. TCP is only really concerned with delivering packets of data, while HTTP is another protocol built on top of the TCP functionality.
