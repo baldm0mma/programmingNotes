@@ -41,3 +41,6 @@ Vim on one side, and Visual Studio on another.
 
 ### TCP vs HTTP?
   - HTTP is built on TCP. TCP is only really concerned with delivering packets of data, while HTTP is another protocol built on top of the TCP functionality.
+
+### JSON vs XML vs HTML?
+  - Marshall and unmarshall (Go)/serialize and deserialize/stringify and parse
