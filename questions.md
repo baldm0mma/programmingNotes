@@ -44,3 +44,5 @@ Vim on one side, and Visual Studio on another.
 
 ### JSON vs XML vs HTML?
   - Marshall and unmarshall (Go)/serialize and deserialize/stringify and parse
+
+### Prototypal vs class inheritance?
