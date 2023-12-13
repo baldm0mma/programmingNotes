@@ -45,3 +45,9 @@ Vim on one side, and Visual Studio on another.
 - Marshall and unmarshall (Go)/serialize and deserialize/stringify and parse
 
 ### Prototypal vs class inheritance?
+
+### Recursion vs iteration?
+
+- Recursion: a function that calls itself repeatedly to iterate through a function. At its core, it’s just a function that calls itself.
+- Iteration: step through a collection of items.
+- Elixir tail call optimization? Why doesn’t everybody do this?
