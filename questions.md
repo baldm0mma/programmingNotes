@@ -53,3 +53,9 @@ Vim on one side, and Visual Studio on another.
 - Elixir tail call optimization? Why doesn’t everybody do this?
 
 ### Iteration vs Enumeration?
+
+- What's the diff?
+
+### OOP
+
+- What's the point???
