@@ -59,3 +59,7 @@ Vim on one side, and Visual Studio on another.
 ### OOP
 
 - What's the point???
+
+### Markup vs markdown language
+
+- What's the diff?
