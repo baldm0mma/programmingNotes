@@ -69,3 +69,5 @@ Vim on one side, and Visual Studio on another.
 - What’s the deal?
   - So, how do we get from bits/bytes to characters and strings?
   - Also, why is a byte 8 bits instead of 10? Seems easier.
+
+### Functors and Monads?
