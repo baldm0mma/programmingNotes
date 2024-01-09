@@ -71,3 +71,6 @@ Vim on one side, and Visual Studio on another.
   - Also, why is a byte 8 bits instead of 10? Seems easier.
 
 ### Functors and Monads?
+
+### Kubernetes/Docker/Containers/Images/Pods/Clusters/Orchestration?
+
