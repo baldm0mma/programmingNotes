@@ -74,3 +74,9 @@ Vim on one side, and Visual Studio on another.
 
 ### Kubernetes/Docker/Containers/Images/Pods/Clusters/Orchestration?
 
+### Singleton Pattern?
+
+- What is it's purpose?
+  - Use cases?
+
+### Dependency Injection?
