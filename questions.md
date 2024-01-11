@@ -80,3 +80,5 @@ Vim on one side, and Visual Studio on another.
   - Use cases?
 
 ### Dependency Injection?
+
+### Design Patterns?
