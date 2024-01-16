@@ -82,3 +82,6 @@ Vim on one side, and Visual Studio on another.
 ### Dependency Injection?
 
 ### Design Patterns?
+
+### MVC?
+
