@@ -85,3 +85,23 @@ Vim on one side, and Visual Studio on another.
 
 ### MVC?
 
+### Currying?
+
+- What is it?
+  - Why is it useful?
+
+### Closures?
+
+- What are they?
+  - Why are they useful?
+
+### Functional Programming?
+
+- What is it?
+  - Why is it useful?
+
+### Object Oriented Programming?
+
+- What is it?
+  - Why is it useful?
+
