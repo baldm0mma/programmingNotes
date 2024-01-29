@@ -105,3 +105,23 @@ Vim on one side, and Visual Studio on another.
 - What is it?
   - Why is it useful?
 
+### Declarative Programming?
+
+- What is it?
+  - Why is it useful?
+
+### Imperative Programming?
+
+- What is it?
+  - Why is it useful?
+
+### Procedural Programming?
+
+- What is it?
+  - Why is it useful?
+
+### Functional Programming?
+
+- What is it?
+  - Why is it useful?
+
