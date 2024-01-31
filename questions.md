@@ -125,3 +125,8 @@ Vim on one side, and Visual Studio on another.
 - What is it?
   - Why is it useful?
 
+### Getters and setters
+
+- What are they?
+  - Why are they useful?
+  - Are they a pattern?
