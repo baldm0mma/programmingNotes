@@ -2,6 +2,12 @@
 
 ## Questions
 
+### General Questions
+
+#### DataFrames
+
+- Why are we using DataFrames as a general data structure?
+
 ### Codebase Areas
 
 #### packages
