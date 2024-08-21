@@ -10,7 +10,7 @@
 
 ### Codebase Areas
 
-#### packages
+#### grafana/packages
 
 - Grafana Runtime
   - LocationService.ts

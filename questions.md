@@ -130,3 +130,4 @@ Vim on one side, and Visual Studio on another.
 - What are they?
   - Why are they useful?
   - Are they a pattern?
+
