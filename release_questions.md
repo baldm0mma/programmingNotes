@@ -1,4 +1,9 @@
 - How does one find the commits that don't make it into a release branch candidate (i.e., between the cutoff and the actuall building of the release)?
   - https://raintank-corp.slack.com/archives/C05V3D0EPDZ/p1724245827948849
-- In [this PR](https://github.com/grafana/grafana-release/pull/1100/files), how did the author know where to find these commands?
-- 
+- How is a grafana release built? Like, lead me through the process.
+- What's the deal with CGO?
+- How are there inconsistencies between the release, and the PRs that should be in the release?
+  - Greetings from Release Guild. This PR has been successfully included in the Grafana 11.2 release branch. A backport PR was also created to ensure the v11.2.x branch is correctly synchronized with the release.
+- grafana-security-patches
+  - How are they handled?
+  - https://github.com/grafana/grafana-security-patches/pull/29/files
