@@ -6,4 +6,6 @@
   - Greetings from Release Guild. This PR has been successfully included in the Grafana 11.2 release branch. A backport PR was also created to ensure the v11.2.x branch is correctly synchronized with the release.
 - grafana-security-patches
   - How are they handled?
-  - https://github.com/grafana/grafana-security-patches/pull/29/files
+    - https://github.com/grafana/grafana-security-patches/pull/29/files
+  - Why did this get closed?
+    - https://github.com/grafana/grafana-security-patches/pull/24
