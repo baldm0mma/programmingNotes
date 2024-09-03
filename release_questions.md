@@ -1,13 +1,14 @@
 - How does one find the commits that don't make it into a release branch candidate (i.e., between the cutoff and the actuall building of the release)?
   - https://raintank-corp.slack.com/archives/C05V3D0EPDZ/p1724245827948849
 - How is a grafana release built? Like, lead me through the process.
-- What's the deal with CGO?
+- ~~What's the deal with CGO?~~
 - How are there inconsistencies between the release, and the PRs that should be in the release?
   - Greetings from Release Guild. This PR has been successfully included in the Grafana 11.2 release branch. A backport PR was also created to ensure the v11.2.x branch is correctly synchronized with the release.
-- grafana-security-patches
-  - How are they handled?
-    - https://github.com/grafana/grafana-security-patches/pull/29/files
-  - Why did this get closed?
-    - https://github.com/grafana/grafana-security-patches/pull/24
+- ~~grafana-security-patches~~
+  - ~~How are they handled?~~
+    - ~~https://github.com/grafana/grafana-security-patches/pull/29/files~~
+  - ~~Why did this get closed?~~
+    - ~~https://github.com/grafana/grafana-security-patches/pull/24~~
 - How do security patches get applied tp cloud?
   - Is there a way to take advantage of the security vulnerabilities in the cloud before they're applied?
+- Tell me more about how secruity fixes work again? What repo are the release branches in? What repo are they built from? How do security fixes finally get into grafana/grafana?
