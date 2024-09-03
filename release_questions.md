@@ -3,7 +3,7 @@
 - How is a grafana release built? Like, lead me through the process.
 - ~~What's the deal with CGO?~~
 - How are there inconsistencies between the release, and the PRs that should be in the release?
-  - Greetings from Release Guild. This PR has been successfully included in the Grafana 11.2 release branch. A backport PR was also created to ensure the v11.2.x branch is correctly synchronized with the release.
+  - "Greetings from Release Guild. This PR has been successfully included in the Grafana 11.2 release branch. A backport PR was also created to ensure the v11.2.x branch is correctly synchronized with the release."
 - ~~grafana-security-patches~~
   - ~~How are they handled?~~
     - ~~https://github.com/grafana/grafana-security-patches/pull/29/files~~
