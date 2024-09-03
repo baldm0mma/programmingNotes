@@ -13,3 +13,4 @@
   - ~~Is there a way to take advantage of the security vulnerabilities in the cloud before they're applied?~~
 - ~~Tell me more about how secruity fixes work again? What repo are the release branches in? What repo are they built from? How do security fixes finally get into grafana/grafana?~~
 - What, if any, shared [github actions](https://github.com/grafana/shared-workflows) can be utilized for the Tiger Team work?
+  - Possibly a good opportunity for cross-team collaboration?
