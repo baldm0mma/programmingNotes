@@ -5,3 +5,4 @@
 @kevin/@self: what's the difference between tagging with TAG and DRONE_TAG?
 @self: are the uses of interfaces in GO only for testing? or do they have other uses? is there a JS/TS equivalent?
 @kevin: how does the actual build process run? i mean, i know grafana-build has all our build tooling; but does grafana have a docker/makefile that downloads the build tools and then uses them to build the various binaries?
+@self: how does promoting from main work when building from other tags? also, why dn't we just always use main as the target for building?
