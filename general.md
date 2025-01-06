@@ -9,3 +9,4 @@
 @self: bash script for printing and formatting file structure: find . -not -path "*/.git/*" -not -path "./.git" | sed -e "s/[^-][^\/]*\// |/g" -e "s/|\([^ ]\)/|-\1/"
 @self: how are terraform and ansible used differently?
 @self: what is absolutely necessary for grabpl? what can we remove easily?
+@self: how do we add de facto dependabot scanning to all pertinent repos?
