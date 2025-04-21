@@ -12,3 +12,4 @@
 @self: how do we add de facto dependabot scanning to all pertinent repos?
 @self: what bumps are woth persuing?
 @self: remove dependabot scanning for grafana-security-mirror?
+self: what drone pipelines have no business being migrated?
